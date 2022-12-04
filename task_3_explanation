@@ -1,0 +1,10 @@
+Loic Sangwa
+Task 3 Explanation
+
+2. Explanation of my thinking
+
+After completing the task, I noticed that the chart didn't look the same as the chart in the instructions. To achieve the desired look, I modified what the columns the chart displays so that only the columns useful to the trader are shown. I unchecked the price_abc, price_def, and timestamp columns and left the upper_bound, lower_bound, ratio, and trigger_alert columns. 
+
+3.Explanation of insights a trader can draw
+
+With this chart, a trader will be able to notice when the ratio of prices reaches a historical high or low, suggesting to them at it might be a good time to sell/buy one of the stocks. 
